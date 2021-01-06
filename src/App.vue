@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <!-- Side Navigation Drawer -->
+    <!-- Side Navigation Drawer ---->
     <v-navigation-drawer v-model="drawer" app color="white" temporary>
       <v-list>
         <v-list-item v-for="navigation in navigations" :key="navigation.title" router :to="navigation.route">
