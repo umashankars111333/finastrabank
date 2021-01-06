@@ -1,4 +1,4 @@
-# front-end
+# finastra-bank
 
 ## Project setup
 ```
