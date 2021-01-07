@@ -187,8 +187,6 @@ export default {
         ];
       }
       this.$emit("updateFilteredProducts", this.localFilteredProducts);
-      this.selectedProductType = null;
-      this.selectedProduct = null;
     },
   },
 };
